@@ -1,0 +1,24 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Kwagsh
+GenericName=Kwagsh wallet
+Name[uk]=Kwagsh
+Name[ru]=Kwagsh
+Name[pl]=Kwagsh
+Name[be]=Kwagsh
+Name[de]=Kwagsh
+Name[es]=Kwagsh
+Comment=Kwagsh wallet
+Comment[uk]=Kwagsh бумажник
+Comment[ru]=Kwagsh бумажник
+Comment[pl]=Kwagsh Portfel
+Comment[be]=Kwagsh бумажник
+Comment[de]=Kwagsh Brieftasche
+Comment[es]=Kwagsh Monedero
+Exec=kwagsh %U
+Terminal=false
+Type=Application
+Icon=kwagsh
+MimeType=x-scheme-handler/kwagsh;
+Categories=Office;Finance;
+Version=1.3.1
